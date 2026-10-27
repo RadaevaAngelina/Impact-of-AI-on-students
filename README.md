@@ -24,10 +24,3 @@ Kaggle dataset **"AI Impact on Students"** (`ai_student_impact_dataset.csv`):
    - `AI_Study_Ratio = Weekly_GenAI_Hours / (Weekly_GenAI_Hours + Traditional_Study_Hours) * 100`
 5. Two hypothesis checks with grouped comparisons
 
-## Key findings
-- Average GPA rose from 3.15 to 3.35 over the semester (about +0.20), with a
-  similar increase in every major.
-- Weekly GenAI use varies widely (std about 8.3 h, from 0 to 40 h).
-- Burnout risk is strongly linked to exam anxiety (about 6.4 for high risk vs
-  4.7 for low risk) and stays flat across years of study.
-- Paid and free subscribers differ only slightly in skill retention and anxiety.
